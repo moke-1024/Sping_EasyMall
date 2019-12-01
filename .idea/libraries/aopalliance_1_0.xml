@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="aopalliance-1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Sping_EasyMall_05_AOPfirst/lib/aopalliance-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Sping_EasyMall_05_AOPfirst/lib/aspectjrt-1.7.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Sping_EasyMall_05_AOPfirst/lib/aspectjweaver-1.7.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Sping_EasyMall_05_AOPfirst/lib/commons-logging-1.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Sping_EasyMall_05_AOPfirst/lib/spring-aop-4.3.25.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Sping_EasyMall_05_AOPfirst/lib/spring-aspects-4.3.25.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Sping_EasyMall_05_AOPfirst/lib/spring-beans-4.3.25.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Sping_EasyMall_05_AOPfirst/lib/spring-context-4.3.25.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Sping_EasyMall_05_AOPfirst/lib/spring-context-support-4.3.25.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Sping_EasyMall_05_AOPfirst/lib/spring-core-4.3.25.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Sping_EasyMall_05_AOPfirst/lib/spring-expression-4.3.25.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Sping_EasyMall_05_AOPfirst/lib/spring-test-4.3.25.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

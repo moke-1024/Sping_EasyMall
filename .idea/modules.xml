@@ -2,11 +2,17 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Sping_EasyMall_01/Sping_EasyMall_01.iml" filepath="$PROJECT_DIR$/Sping_EasyMall_01/Sping_EasyMall_01.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Sping_EasyMall_02_StaicPorxy/Sping_EasyMall_02_StaicPorxy.iml" filepath="$PROJECT_DIR$/Sping_EasyMall_02_StaicPorxy/Sping_EasyMall_02_StaicPorxy.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Sping_EasyMall_03_JavaPorxy/Sping_EasyMall_03_JavaPorxy.iml" filepath="$PROJECT_DIR$/Sping_EasyMall_03_JavaPorxy/Sping_EasyMall_03_JavaPorxy.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Sping_EasyMall_04_CglibPorxy/Sping_EasyMall_04_CglibPorxy.iml" filepath="$PROJECT_DIR$/Sping_EasyMall_04_CglibPorxy/Sping_EasyMall_04_CglibPorxy.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Sping_EasyMall_05_AOPfirst/Sping_EasyMall_05_AOPfirst.iml" filepath="$PROJECT_DIR$/Sping_EasyMall_05_AOPfirst/Sping_EasyMall_05_AOPfirst.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringMVC_01_First/SpringMVC_01_First.iml" filepath="$PROJECT_DIR$/SpringMVC_01_First/SpringMVC_01_First.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringMVC_02_Firstanno/SpringMVC_02_Firstanno.iml" filepath="$PROJECT_DIR$/SpringMVC_02_Firstanno/SpringMVC_02_Firstanno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringMVC_03_Details01/SpringMVC_03_Details01.iml" filepath="$PROJECT_DIR$/SpringMVC_03_Details01/SpringMVC_03_Details01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring_01/Spring_01.iml" filepath="$PROJECT_DIR$/Spring_01/Spring_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring_02_StaicPorxy/Spring_02_StaicPorxy.iml" filepath="$PROJECT_DIR$/Spring_02_StaicPorxy/Spring_02_StaicPorxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring_03_JavaPorxy/Spring_03_JavaPorxy.iml" filepath="$PROJECT_DIR$/Spring_03_JavaPorxy/Spring_03_JavaPorxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring_04_CglibPorxy/Spring_04_CglibPorxy.iml" filepath="$PROJECT_DIR$/Spring_04_CglibPorxy/Spring_04_CglibPorxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring_05_AOPfirst/Spring_05_AOPfirst.iml" filepath="$PROJECT_DIR$/Spring_05_AOPfirst/Spring_05_AOPfirst.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring_06_AOPanno/Spring_06_AOPanno.iml" filepath="$PROJECT_DIR$/Spring_06_AOPanno/Spring_06_AOPanno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring_07_SpringJDBC_TX/Spring_07_SpringJDBC_TX.iml" filepath="$PROJECT_DIR$/Spring_07_SpringJDBC_TX/Spring_07_SpringJDBC_TX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring_08_SpringJDBC_TXanno/Spring_08_SpringJDBC_TXanno.iml" filepath="$PROJECT_DIR$/Spring_08_SpringJDBC_TXanno/Spring_08_SpringJDBC_TXanno.iml" />
     </modules>
   </component>
 </project>
